@@ -1,1 +1,1 @@
-
+In this section i have kept papers that involved the title approaches . FOr example BERT folder contains 3 papers that ivloved BERT for analysis. A folder - "cited maqsood " contains those papers which cited the PAKISTANI paper by mr maqsood , and this folder has lot of papers that have tabulated data for comaprison of diffferent models regarding stock prediction . Apart from this 2 other files - "review paper" and review of hybrid deep learning models " also contains tabulated data for comparison. 
